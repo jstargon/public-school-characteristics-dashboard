@@ -113,7 +113,7 @@ In the future, I hope to leverage my familiarity with different softwares and me
 ---
 
 ## 🚀 How to Use This Project
-1. Download the **[`Public_School_Characteristics_Analysis.xlsx`](./Public_School_Characteristics_2022-2023_Analysis.xlsx)** file to view the full dashboard.  
+1. Download the **[`Public_School_Characteristics_Analysis.xlsx`](./Public_School_Characteristics_2022-23_Analysis.xlsx)** file to view the full dashboard.  
 2. Explore **pivot tables** (`pivot_v2.xlsx` and `pivot_v3.xlsx`) to see how the data was structured.  
 3. View **dashboard PDFs** (`dashboard_v1.pdf` and `dashboard_v2.pdf`) if you don’t have Excel installed.  
 
